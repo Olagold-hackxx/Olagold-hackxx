@@ -12,10 +12,7 @@
 - 🌱 I’m currently learning Active Directory and Typescript
   
 
-- ❓  
-  
-
-- ⚡ Fun fact: I smile a lot 
+- ⚡ Fun fact: I smile a lot 😄
   
 
 <br/>  
