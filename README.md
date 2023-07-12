@@ -6,16 +6,16 @@
 ### <div align="center">I'm Abdulqoyyum, know mostly as Abdul, a Full-stack Developer and Ethical Hacker</div>  
   
 
-- 🔭   
+- 🔭 I'm currently working on a Cargo site and running full pentest on Metasploitable2
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Active Directory and Typescript
   
 
 - ❓  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I smile a lot 
   
 
 <br/>  
