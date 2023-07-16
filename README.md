@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abdulqoyyum, know mostly as Abdul, a Full-stack Developer and Ethical Hacker</div>  
+### <div align="center">I'm Abdulqoyyum, Abdul for short, a Full-stack Developer and Ethical Hacker</div>  
   
 
 - 🔭 I'm currently working on a Cargo site and running full pentest on Metasploitable2
