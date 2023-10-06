@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abdulqoyyum, Abdul for short, a Full-stack Developer and Ethical Hacker</div>  
   
 
-- 🔭 I'm currently working on a Cargo site and running full pentest on Metasploitable2
+- 🔭 I'm currently working on Jay Cargo and Climate Wavers
   
 
 - 🌱 I’m currently learning Active Directory and Typescript
