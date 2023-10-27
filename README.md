@@ -6,10 +6,10 @@
 ### <div align="center">I'm Abdulqoyyum, Abdul for short, a Full-stack Developer and Ethical Hacker</div>  
   
 
-- 🔭 I'm currently working on Jay Cargo and Climate Wavers
+- 🔭 I'm currently working Climate Wavers
   
 
-- 🌱 I’m currently learning Active Directory and Typescript
+- 🌱 I’m currently learning Active Directory
   
 
 - ⚡ Fun fact: I smile a lot 😄
