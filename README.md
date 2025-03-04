@@ -7,7 +7,7 @@
 ### <div align="center">Hey there! I'm Abdulqoyyum (Abdul for short) ✨</div>
 
 <div align="center">
-  <b>Full-stack Developer | Ethical Hacker | DevOps Enthusiast</b>
+  <b>Full-stack Developer |  DevOps Engineer | AI/ML Enthusiast </b>
 </div>
 
 ---
