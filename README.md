@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently building **[Climate Wavers](https://github.com/your-project-link)**—an AI-powered social network for climate action & disaster response.
 - ⚡ I specialize in **microservices, DevOps, and security** with a focus on **scalable, resilient systems**.
-- 🌱 Currently deep-diving into **Active Directory security & cloud-native architectures**.
+- 🌱 Currently deep-diving into **Deep learning, Neural network & cloud-native architectures**.
 - 🎯 Passionate about **ethical hacking, AI integrations, and decentralized tech**.
 - 😄 Fun fact: I smile a lot, even when debugging! 😆
 
