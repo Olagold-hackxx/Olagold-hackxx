@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently building **[CraftLink](http://github.com/Olagold-hackxx/Craftlink-frontend)**— a marketplace for Artisans on-chain
 - ⚡ I specialize in **microservices, DevOps, and security** with a focus on **scalable, resilient systems**.
-- 🌱 Currently deep-diving into **Deep learning, Neural network, theoretical Machine Learning, Model optimization and quantization techniques**.
+- 🌱 Currently deep-diving into **Deep learning, Neural network, Theoretical and Applied Machine Learning, Model optimization and quantization techniques**.
 - 🎯 Passionate about **Mathematics, AI/ML and decentralized technologies**.
 - 😄 Fun fact: I smile a lot, even when debugging! 😆
 
