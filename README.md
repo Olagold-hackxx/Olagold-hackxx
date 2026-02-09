@@ -7,7 +7,7 @@
 ### <div align="center">Hey there! I'm Abdulqoyyum (Abdul for short) ✨</div>
 
 <div align="center">
-  <b>Full-stack Developer |  DevOps Engineer | AI/ML Enthusiast </b>
+  <b>Full-stack Developer |  Software Engineer | AI/ML Engineer </b>
 </div>
 
 ---
@@ -16,8 +16,8 @@
 
 - 🔭 I’m currently building **[CraftLink](http://github.com/Olagold-hackxx/Craftlink-frontend)**— a marketplace for Artisans on-chain
 - ⚡ I specialize in **microservices, DevOps, and security** with a focus on **scalable, resilient systems**.
-- 🌱 Currently deep-diving into **Deep learning, Neural network & cloud-native architectures**.
-- 🎯 Passionate about **ethical hacking, AI integrations, and decentralized tech**.
+- 🌱 Currently deep-diving into **Deep learning, Neural network, theoretical Machine Learning, Model optimization and quantization techniques **.
+- 🎯 Passionate about **Mathematics, ML/AI and decentralized technologies**.
 - 😄 Fun fact: I smile a lot, even when debugging! 😆
 
 ---
